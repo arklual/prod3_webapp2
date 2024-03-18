@@ -1,7 +1,7 @@
 {
   "name": "prod3_webapp1",
   "version": "0.1.0",
-  "homepage": "https://arklual.github.io/prod3_webapp1",
+  "homepage": "https://arklual.github.io/prod3_webapp2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
